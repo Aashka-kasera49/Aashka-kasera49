@@ -5,7 +5,7 @@
 - 👀 I’m interested in learning about coding and technology
 - 🌱 I’m currently learning Android Development
 - 💞️ I’m looking to collaborate on cool beginner-friendly projects and open source projects
-- 📫 How to reach me here on GitHub or Email (aashkakasera@gmail.com)
+- 📫 You can reach me here on GitHub or Email (aashkakasera@gmail.com)
 - 😄 Pronouns: She/her
 - ⚡ Fun fact:  I love solving puzzles and learning new Technologies!!
 
